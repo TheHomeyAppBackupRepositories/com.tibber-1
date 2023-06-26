@@ -1,0 +1,1 @@
+{"version":3,"file":"UserAgentWebSocket.js","sourceRoot":"","sources":["../../lib/UserAgentWebSocket.ts"],"names":[],"mappings":";;;;;;AAAA,4CAA2B;AAC3B,iEAAsD;AAEtD,MAAa,kBAAmB,SAAQ,YAAS;IAE/C,YAAY,OAAe,EAAE,SAAc;QACzC,KAAK,CAAC,OAAO,EAAE,SAAS,EAAE;YACxB,OAAO,EAAE;gBACP,YAAY,EAAE,IAAA,mCAAY,GAAE;aAC7B;SACF,CAAC,CAAC;IACL,CAAC;CACF;AATD,gDASC"}
